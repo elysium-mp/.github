@@ -2,6 +2,7 @@
   <img src="https://i.imgur.com/aJkAQ5S.png" alt="Image" width="200" height="200" />
 </div>
 <p align="center"><b>elysium.mp - Romanian GTA V Server powered by RAGE Multiplayer.</b></p>
+<p align="center"><b>🚧Work In Progress..</b></p>
 
 <p align="center">
    <a href="https://www.instagram.com/elysium-mp/" target="_blank">
@@ -19,5 +20,9 @@
 </p>
 
 <div align="center"
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCehQuaY14DVapVKDXXsfqLg">
+  <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Felysium.mp%2F">
+<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Felysium.mp%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-success-blue?label=current%20elysium%20build">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCehQuaY14DVapVKDXXsfqLg">
+
 </div>

@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.imgur.com/aJkAQ5S.png" alt="Image" width="200" height="200" />
 </div>
-<p align="center"><b>elysium.mp - Romanian GTA V Server powered by RAGE Multiplayer.</b></p>
+<p align="center"><b>elysium.mp - Romanian GTA V Server powered by FiveM.</b></p>
 <p align="center"><b>🚧Work In Progress..</b></p>
 
 <p align="center">
